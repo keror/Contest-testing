@@ -1,3 +1,10 @@
+//just create cases.txt in the project and add test cases in such format
+//
+//input
+//....
+//output
+//....
+
 #pragma once
 #include <iostream>
 #include <fstream>
